@@ -65,7 +65,7 @@ The method processes CHIP-8 opcodes:
 # **Jarvis - The discord bot** `Task 2`
 ### *The Discord bot that assists you more than anyone!*  
 Designed while keeping in mind the requirements of Task 2, Jarvis is here to help.  
-
+Discord server - [Join our Discord Server](https://discord.gg/qwvk4axG)
 ---
 
 ## **What Can It Do?**  
