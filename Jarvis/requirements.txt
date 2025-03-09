@@ -1,0 +1,8 @@
+discord.py
+PyPDF2
+qrcode
+Pillow
+fpdf
+supabase
+tabulate
+google.generativeai
